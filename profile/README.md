@@ -34,7 +34,7 @@ DreamLab.Solutions creates modular digital platforms with a strong focus on:
 
 ## Contact
 
-- Product & collaboration: [info@dreamlab.solution](mailto:info@dreamlab.solution)
+- Product & collaboration: [info@dreamlab.solutions](mailto:info@dreamlab.solutions)
 
 ---
 
