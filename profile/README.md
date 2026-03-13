@@ -26,11 +26,15 @@ DreamLab.Solutions creates modular digital platforms with a strong focus on:
 ## Repositories
 
 - [monorepo](https://github.com/DreamLab-Solutions/monorepo)
-- [platform-hub-next](https://github.com/DreamLab-Solutions/platform-hub-next)
-- [dls-public-website](https://github.com/DreamLab-Solutions/dls-public-website)
-- [dls-api-core](https://github.com/DreamLab-Solutions/dls-api-core)
-- [dls-domain](https://github.com/DreamLab-Solutions/dls-domain)
-- [dls-ui-react](https://github.com/DreamLab-Solutions/dls-ui-react)
+- [backend](https://github.com/DreamLab-Solutions/dls-backends)
+- [theme](https://github.com/DreamLab-Solutions/dls-theme)
+- [api-core](https://github.com/DreamLab-Solutions/dls-api-core)
+- [domain](https://github.com/DreamLab-Solutions/dls-domain)
+- [ui-react](https://github.com/DreamLab-Solutions/dls-ui-react)
+- [ui-astro](https://github.com/DreamLab-Solutions/dls-ui-astro)
+- [ui-vue](https://github.com/DreamLab-Solutions/dls-ui-vue)
+- [platform-hub](https://github.com/DreamLab-Solutions/platform-hub-next)
+- [website](https://github.com/DreamLab-Solutions/dls-public-website)
 
 ## Contact
 
