@@ -1,10 +1,10 @@
 # DreamLab.Solutions
 
-**Digital products, interface design and web development.**
+**Digital product design, Figma prototyping and integrations.**
 
-DreamLab designs and develops digital products and web applications, bringing together user experience, interface design and software development.
+DreamLab designs and develops digital products, combining UX/UI design, interactive prototyping, reusable design systems and integrations between applications and services.
 
-The focus is on practical tools and clear interfaces: shaping product ideas, developing applications and connecting them with the services they need.
+From early concepts to high-fidelity Figma prototypes and working applications, the focus is on product behaviour, clear interfaces and connected workflows.
 
 Explore the products in development, discover selected projects, or start a conversation about a new one.
 
@@ -20,9 +20,21 @@ For questions about a product, its current status or opportunities to collaborat
 
 ## Services
 
-UX/UI design and web development for new ideas and existing applications. The work includes user flows, interface layouts, reusable components, content management and integrations with backend services.
+### Product design and Figma prototyping
 
-Projects can start with an initial concept or an existing application that needs clearer interfaces, additional functionality or further development.
+User journeys, interface design and high-fidelity interactive prototypes. Figma work covers navigation, screen states and responsive layouts, making product ideas tangible before implementation.
+
+Prototypes provide a space to explore flows, compare approaches and discuss product decisions, not just preview the appearance of an interface.
+
+### Design systems
+
+Reusable components, variants, variables and semantic design tokens. Shared foundations connect product interfaces, themes and localisation with implementation, while keeping product-specific decisions separate.
+
+### Integrations and application development
+
+Connecting APIs, content management, authentication, storage and external services into application workflows. The work includes defining data flows, developing adapters, extending existing tools and building web applications.
+
+A project can focus on a prototype, a design system or a specific integration; it does not need to start as a full application build.
 
 ## Projects and selected work
 
@@ -32,12 +44,12 @@ The [DreamLab website](https://dreamlab.solutions) is the public point of entry 
 
 ## Technical foundation
 
-The working foundation is the DreamLab website, built with Astro, and its Supabase backend. The remaining applications and shared code are being reorganised and consolidated around that foundation.
+The working foundation is the DreamLab website, built with Astro, and its Supabase backend. The remaining applications and shared code are under review for reorganisation and consolidation around that foundation.
 
 Repositories may contain applications, shared implementation or experiments. They are not all separate products or released services.
 
 ## Contact
 
-For product enquiries, project discussions or collaboration, contact [info@dreamlab.solutions](mailto:info@dreamlab.solutions).
+For product design, prototyping, integrations, development or collaboration, contact [info@dreamlab.solutions](mailto:info@dreamlab.solutions).
 
 [Visit the DreamLab website](https://dreamlab.solutions)
