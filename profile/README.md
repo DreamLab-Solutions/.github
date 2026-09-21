@@ -1,45 +1,43 @@
 # DreamLab.Solutions
 
-**Build once. Govern everywhere.**
+**Digital products, interface design and web development.**
 
-DreamLab.Solutions creates modular digital platforms with a strong focus on:
+DreamLab designs and develops digital products and web applications, bringing together user experience, interface design and software development.
 
-- secure backend-for-frontend (BFF) architectures
-- access governance and policy-driven routing
-- reusable UI and domain packages in a TypeScript-first ecosystem
-- production-ready workflows from local Supabase to cloud deployment
+The focus is on practical tools and clear interfaces: shaping product ideas, developing applications and connecting them with the services they need.
 
-## What We Build
+Explore the products in development, discover selected projects, or start a conversation about a new one.
 
-- **Platform Hub** for admin/governance operations
-- **Public Website** with protected areas and runtime feature gating
-- **Shared Packages** for domain logic, API core, UI components, storage and auth adapters
+[Explore products](#products) · [Discuss a project](mailto:info@dreamlab.solutions)
 
-## Engineering Principles
+## Products
 
-- clean boundaries: `domain -> api-core -> app`
-- no mock shortcuts in production paths
-- deny-by-default access model
-- runtime-configurable policies from backend data
-- incremental delivery with clear epics/stories/tasks
+DreamLab is a home for digital products in development and a point of contact for prospective users and collaborators.
 
-## Repositories
+Product ideas, prototypes and released applications represent different stages of development. A development repository does not, by itself, indicate a publicly available product.
 
-- [monorepo](https://github.com/DreamLab-Solutions/monorepo)
-- [backend](https://github.com/DreamLab-Solutions/dls-backends)
-- [theme](https://github.com/DreamLab-Solutions/dls-theme)
-- [api-core](https://github.com/DreamLab-Solutions/dls-api-core)
-- [domain](https://github.com/DreamLab-Solutions/dls-domain)
-- [ui-react](https://github.com/DreamLab-Solutions/dls-ui-react)
-- [ui-astro](https://github.com/DreamLab-Solutions/dls-ui-astro)
-- [ui-vue](https://github.com/DreamLab-Solutions/dls-ui-vue)
-- [platform-hub](https://github.com/DreamLab-Solutions/platform-hub-next)
-- [website](https://github.com/DreamLab-Solutions/dls-public-website)
+For questions about a product, its current status or opportunities to collaborate, [start a conversation](mailto:info@dreamlab.solutions).
+
+## Services
+
+UX/UI design and web development for new ideas and existing applications. The work includes user flows, interface layouts, reusable components, content management and integrations with backend services.
+
+Projects can start with an initial concept or an existing application that needs clearer interfaces, additional functionality or further development.
+
+## Projects and selected work
+
+DreamLab brings together product development and client projects. The emphasis is on the problem being addressed, the people using the application and the work needed to move it forward.
+
+The [DreamLab website](https://dreamlab.solutions) is the public point of entry for products, services and project enquiries. This GitHub organisation hosts the technical work behind them.
+
+## Technical foundation
+
+The working foundation is the DreamLab website, built with Astro, and its Supabase backend. The remaining applications and shared code are being reorganised and consolidated around that foundation.
+
+Repositories may contain applications, shared implementation or experiments. They are not all separate products or released services.
 
 ## Contact
 
-- Product & collaboration: [info@dreamlab.solutions](mailto:info@dreamlab.solutions)
+For product enquiries, project discussions or collaboration, contact [info@dreamlab.solutions](mailto:info@dreamlab.solutions).
 
----
-
-DreamLab.Solutions is an evolving ecosystem. We optimize for clear architecture, operational speed, and secure scale.
+[Visit the DreamLab website](https://dreamlab.solutions)
