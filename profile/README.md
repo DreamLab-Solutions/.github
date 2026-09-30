@@ -1,55 +1,51 @@
 # DreamLab.Solutions
 
-**Digital product design, Figma prototyping and integrations.**
+**Digital products for real workflows.**
 
-DreamLab designs and develops digital products, combining UX/UI design, interactive prototyping, reusable design systems and integrations between applications and services.
+DreamLab is an independent digital product studio. We help businesses and small teams turn ideas, manual processes and existing software into clearer, more useful digital products.
 
-From early concepts to high-fidelity Figma prototypes and working applications, the focus is on product behaviour, clear interfaces and connected workflows.
+We work across product design and implementation, from understanding the problem and shaping the workflow to prototyping, integration and delivery.
 
-Explore the products in development, discover selected projects, or start a conversation about a new one.
+## What we help with
 
-[Explore products](#products) · [Discuss a project](mailto:info@dreamlab.solutions)
+A project often starts with a process that takes too much manual work, an existing application that no longer fits the way people use it, or an idea that needs to become tangible before investing in development.
 
-## Products
+We help define how the product should work, how people move through it and how the different parts of the system need to connect.
 
-DreamLab is a home for digital products in development and a point of contact for prospective users and collaborators.
+## How we work
 
-Product ideas, prototypes and released applications represent different stages of development. A development repository does not, by itself, indicate a publicly available product.
+We start with the problem rather than a predefined technical solution.
 
-For questions about a product, its current status or opportunities to collaborate, [start a conversation](mailto:info@dreamlab.solutions).
+Product behaviour, workflows and responsibilities are clarified first. Prototypes make those decisions tangible and give stakeholders something concrete to review before or during implementation.
+
+When development is required, design and implementation remain connected so that the product does not lose its intended behaviour as it becomes software.
 
 ## Services
 
-### Product design and Figma prototyping
+### Product design and prototyping
 
-User journeys, interface design and high-fidelity interactive prototypes. Figma work covers navigation, screen states and responsive layouts, making product ideas tangible before implementation.
-
-Prototypes provide a space to explore flows, compare approaches and discuss product decisions, not just preview the appearance of an interface.
+Product flows, interaction design and working prototypes for new products, redesigns and complex workflows.
 
 ### Design systems
 
-Reusable components, variants, variables and semantic design tokens. Shared foundations connect product interfaces, themes and localisation with implementation, while keeping product-specific decisions separate.
+Reusable foundations that keep interfaces consistent while allowing individual products to retain their own requirements and behaviour.
 
-### Integrations and application development
+### Integrations and product development
 
-Connecting APIs, content management, authentication, storage and external services into application workflows. The work includes defining data flows, developing adapters, extending existing tools and building web applications.
+Connecting applications, content, data and external services, or extending existing systems when a full rebuild is unnecessary.
 
-A project can focus on a prototype, a design system or a specific integration; it does not need to start as a full application build.
+Projects can start small. A prototype, integration or redesign can be delivered independently without committing to a complete application build.
 
-## Projects and selected work
+## Products and work
 
-DreamLab brings together product development and client projects. The emphasis is on the problem being addressed, the people using the application and the work needed to move it forward.
+Alongside client work, DreamLab develops its own digital products and experiments.
 
-The [DreamLab website](https://dreamlab.solutions) is the public point of entry for products, services and project enquiries. This GitHub organisation hosts the technical work behind them.
+Repositories in this organisation may represent client work, internal products, prototypes or supporting implementation. Their presence does not necessarily mean that a product is publicly available.
 
-## Technical foundation
-
-The working foundation is the DreamLab website, built with Astro, and its Supabase backend. The remaining applications and shared code are under review for reorganisation and consolidation around that foundation.
-
-Repositories may contain applications, shared implementation or experiments. They are not all separate products or released services.
+For current products and selected work, visit [dreamlab.solutions](https://dreamlab.solutions).
 
 ## Contact
 
-For product design, prototyping, integrations, development or collaboration, contact [info@dreamlab.solutions](mailto:info@dreamlab.solutions).
+Have a process, product or idea that needs to work better?
 
-[Visit the DreamLab website](https://dreamlab.solutions)
+[Start a conversation](mailto:info@dreamlab.solutions) · [Visit DreamLab](https://dreamlab.solutions)
